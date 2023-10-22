@@ -1,0 +1,3 @@
+[submodule "suey-pkg-utils"]
+	path = suey-pkg-utils
+	url = git@github.com:iqseternal/suey-pkg-utils.git
