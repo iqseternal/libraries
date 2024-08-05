@@ -4,9 +4,6 @@
 [submodule "sury-rocketry"]
 	path = sury-rocketry
 	url = git@github.com:iqseternal/suey-rocketry.git
-[submodule "suey-rocktry"]
-	path = suey-rocktry
-	url = git@github.com:iqseternal/suey-rocketry.git
 [submodule "suey-printer"]
 	path = suey-printer
 	url = git@github.com:iqseternal/suey-printer.git
