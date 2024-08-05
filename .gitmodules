@@ -1,3 +1,21 @@
 [submodule "suey-pkg-utils"]
 	path = suey-pkg-utils
 	url = git@github.com:iqseternal/suey-pkg-utils.git
+[submodule "sury-rocketry"]
+	path = sury-rocketry
+	url = git@github.com:iqseternal/suey-rocketry.git
+[submodule "suey-rocktry"]
+	path = suey-rocktry
+	url = git@github.com:iqseternal/suey-rocketry.git
+[submodule "suey-printer"]
+	path = suey-printer
+	url = git@github.com:iqseternal/suey-printer.git
+[submodule "suey-surly"]
+	path = suey-surly
+	url = git@github.com:iqseternal/suey-surly.git
+[submodule "suey-pkg-web"]
+	path = suey-pkg-web
+	url = git@github.com:iqseternal/suey-pkg-web.git
+[submodule "suey-loader"]
+	path = suey-loader
+	url = git@github.com:iqseternal/suey-loader.git
